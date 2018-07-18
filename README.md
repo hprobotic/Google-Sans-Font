@@ -23,3 +23,6 @@ The present Google logo is based on Product Sans. Slight modifications do exist 
 - "What Font is the New Google Logo? - Design for Hackers". Design for Hackers. 2015-09-01. Retrieved 2017-03-12.
 - "Product Sans Specimen" (PDF). Google Inc. 2015. Retrieved 12 March 2017.
 - "Made by Google". Made by Google. Retrieved 2017-04-20.
+
+## Disclaimer
+This file is completely free to use and distribute. All uploaded files and copyrights are properties of their respective owners.
